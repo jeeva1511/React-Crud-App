@@ -1,0 +1,25 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+body{
+  background-color: rgba(111, 139, 161, 0.733); 
+}
+input:hover{
+  box-shadow: 2px 1px 5px rgba(113, 135, 236, 0.836);
+  background-color: azure;
+}
+.tbodyrow:hover{
+  box-shadow: 2px 1px 5px rgba(113, 135, 236, 0.836);
+}
+
+.card{
+ 
+  background-color: rgba(237, 243, 243, 0.788);
+}
+label{
+  color: rgba(8, 8, 8, 0.801);
+  font-weight: 700;
+  font-size: medium;
+}
+.thead{
+  background-color: rgba(240, 255, 255, 0.644);
+}
